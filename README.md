@@ -1,6 +1,6 @@
 Java 11 Trainee QA Automation Task  
 Candidate: Tural Vahabzada  
-Language: Java 11  
+Language: Java 
 Project Name: vahabzada_java11  
 
 ---
